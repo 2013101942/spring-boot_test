@@ -1,0 +1,12 @@
+user:
+  username: zhangsan
+  age: 18
+  boss: false
+  birthday: 1994-10-14
+  maps: {qq;2783487411 mobile:18932203729}
+  lists:
+    - xiaozhang
+    - saner
+  dog:
+    username: xiaohei
+    age: 12
